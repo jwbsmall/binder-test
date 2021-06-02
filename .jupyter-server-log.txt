@@ -39,3 +39,8 @@ Websocket closed
 [I 11:50:56.638 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 11:52:00.596 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:54:00.578 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:56:00.382 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:57:59.985 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:58:41.212 NotebookApp] Saving file at /test.ipynb
