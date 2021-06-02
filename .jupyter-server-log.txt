@@ -28,3 +28,14 @@ TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 11:18:41.257 NotebookApp] Creating new file in 
 [I 11:19:44.633 NotebookApp] Saving file at /untitled.txt
+Websocket closed
+[I 11:47:50.968 NotebookApp] Creating new notebook in 
+[I 11:47:51.014 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 11:47:59.827 NotebookApp] Kernel started: 926e6d28-0550-4855-b1a0-1cb4b86f04bc, name: python3
+[I 11:47:59.828 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 11:47:59.828 NotebookApp] Culling kernels even with connected clients
+[I 11:49:38.996 NotebookApp] Saving file at /requirements.txt
+[I 11:49:59.918 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:56.638 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
