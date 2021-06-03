@@ -487,3 +487,88 @@ The downloaded source packages are in
 [I 03:03:06.735 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 03:06:11.776 NotebookApp] WebSocket ping timeout after 119584 ms.
+Websocket closed
+[W 03:12:51.794 NotebookApp] Culling 'idle' kernel 'ir' (6947675f-ade9-4b8d-8138-983b4f1c5381) with 0 connections due to 603 seconds of inactivity.
+[I 03:12:51.795 NotebookApp] Kernel shutdown: 6947675f-ade9-4b8d-8138-983b4f1c5381
+[I 03:25:39.632 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+Websocket closed
+[W 03:26:04.881 NotebookApp] Notebook R/mayfly.ipynb is not trusted
+[I 03:26:05.571 NotebookApp] Kernel started: e82f4518-b8c4-4124-91ae-e142d65a9b16, name: ir
+[I 03:26:07.014 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:28:06.332 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:30:22.028 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:30:22.842 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:30:22.843 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:31:10.154 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:31:36.651 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:31:37.576 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:31:37.577 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:32:22.167 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:33:27.962 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:33:28.733 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:33:28.735 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:34:22.403 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:35:09.841 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:35:10.776 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:35:10.778 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:36:22.272 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:37:19.896 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:37:20.758 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:37:20.758 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:38:15.025 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:38:51.877 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:38:52.672 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:38:52.673 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:42:52.192 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:43:25.114 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:43:26.390 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:43:26.392 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:44:52.205 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:45:41.193 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:45:41.317 NotebookApp] Kernel restarted: e82f4518-b8c4-4124-91ae-e142d65a9b16
+[I 03:45:42.786 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:45:42.787 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:45:42.849 NotebookApp] Replaying 2 buffered messages
+[I 03:46:52.158 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:48:51.942 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:50:52.167 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:52:19.824 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:52:29.823 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:52:30.955 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:52:30.956 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:52:52.361 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:54:42.880 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:54:45.134 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:54:46.659 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:54:46.660 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:56:52.309 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 03:57:08.214 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:57:09.315 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:57:09.316 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:57:20.522 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:57:21.679 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 03:57:21.680 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 03:58:52.237 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 04:00:52.172 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 04:02:10.439 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 04:02:52.161 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 04:04:52.486 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 04:05:58.376 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 04:05:58.798 NotebookApp] Kernel restarted: e82f4518-b8c4-4124-91ae-e142d65a9b16
+[I 04:06:00.434 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 04:06:00.435 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 04:06:36.892 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 04:06:36.932 NotebookApp] Saving file at /R/mayfly.ipynb
+[I 04:06:38.117 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 04:06:38.119 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[W 04:08:08.120 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 04:08:13.122 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 04:08:45.453 NotebookApp] Adapting from protocol version 5.0 (kernel e82f4518-b8c4-4124-91ae-e142d65a9b16) to 5.3 (client).
+[I 04:08:45.454 NotebookApp] Restoring connection for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 04:08:46.074 NotebookApp] Starting buffering for e82f4518-b8c4-4124-91ae-e142d65a9b16:16fde71ffa78452b9e908ba9ba817464
+[I 04:08:56.286 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
