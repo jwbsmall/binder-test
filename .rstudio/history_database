@@ -1,1 +1,7 @@
 1622687147923:source("hello.R")
+1622690135571:install.packages("openxlsx")
+1622690469487:df1 <- read.xlsx(xlsxFile = "Rylee/mayfly-data.xlsx", sheet = 1, skipEmptyRows = FALSE)
+1622690482287:library("openxlsx")
+1622690486585:df1 <- read.xlsx(xlsxFile = "Rylee/mayfly-data.xlsx", sheet = 1, skipEmptyRows = FALSE)
+1622690512492:df1 <- read.xlsx(xlsxFile = "R/Rylee/mayfly-data.xlsx", sheet = 1, skipEmptyRows = FALSE)
+1622690515920:df1
