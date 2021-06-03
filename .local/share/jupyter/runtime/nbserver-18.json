@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/jwbsmall-binder-test-srwfjg5x/",
+  "base_url": "/user/jwbsmall-binder-test-fael296i/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
@@ -7,6 +7,6 @@
   "port": 8888,
   "secure": false,
   "sock": "",
-  "token": "AgVJfD38QgO-WcNgxXnsuA",
-  "url": "http://0.0.0.0:8888/user/jwbsmall-binder-test-srwfjg5x/"
+  "token": "VJ7S828gQTqHR7yOxsYtOw",
+  "url": "http://0.0.0.0:8888/user/jwbsmall-binder-test-fael296i/"
 }
